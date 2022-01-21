@@ -1,5 +1,5 @@
 # DMRTA2
-Analysis of DMRTA2+ glioma cells in human GBM for MM.
+Analysis of DMRTA2+ glioma cells in human GBM for MM. (scRNA)
 
 The hypothesis: DMRTA2+ glioma cells are similar to percityes thus they promote angiogenesis.
 
